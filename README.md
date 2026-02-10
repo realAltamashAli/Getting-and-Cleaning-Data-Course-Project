@@ -2,6 +2,8 @@
 
 This repository contains the R script and documentation for the Week 4 assignment of the Getting and Cleaning Data Coursera course.
 
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
 ### Project Overview
 The purpose of this project is to demonstrate the ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis.
 
